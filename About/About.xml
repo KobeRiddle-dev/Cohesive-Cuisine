@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>TemplateMod</name>
-    <author>Someone</author>
+    <name>Cohesive Cuisine</name>
+    <author>Kobe Riddle</author>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
-    <packageId>Someone.TemplateMod</packageId>
+    <packageId>KobeRiddle.CohesiveCuisine</packageId>
     <modVersion>0.1</modVersion>
-    <description>A template for RimWorld Mods.
+    <description>Coheres mods for food and cooking for a conflict-free, "un-modded" experience.
     </description>
     <loadAfter>
         <!-- Ludeon -->
