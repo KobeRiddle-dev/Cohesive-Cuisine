@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+    <v1.6>
+        <li>/</li>
+        <!-- Ludeon -->
+        <li IfModActive="Ludeon.RimWorld">Mod-Specific/Ludeon/Core</li>
+        <li IfModActive="Ludeon.RimWorld.Anomaly">Mod-Specific/Ludeon/Anomaly</li>
+        <li IfModActive="Ludeon.RimWorld.Biotech">Mod-Specific/Ludeon/Biotech</li>
+        <li IfModActive="Ludeon.RimWorld.Ideology">Mod-Specific/Ludeon/Ideology</li>
+        <li IfModActive="Ludeon.RimWorld.Odyssey">Mod-Specific/Ludeon/Odyssey</li>
+        <li IfModActive="Ludeon.RimWorld.Royalty">Mod-Specific/Ludeon/Royalty</li>
+
+        <!-- Other -->
+    </v1.6>
+</loadFolders>
